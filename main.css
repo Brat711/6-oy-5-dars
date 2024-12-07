@@ -1,0 +1,98 @@
+body {
+    background: rgb(42, 42, 42);
+}
+
+.hedar {
+    width: 640px;
+    background: rgb(0, 0, 0);
+    margin: 200px auto;
+}
+
+.input__ota {
+    display: flex;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 55px;
+}
+
+.sonKirt {
+    box-sizing: border-box;
+    border: 3px solid rgb(42, 42, 42);
+    border-radius: 30px;
+    width: 331px;
+    height: 51px;
+    background: rgb(217, 217, 217);
+    margin: 0 auto;
+    padding: 14px 10px 13px 28px;
+}
+
+.jonat {
+    margin: 0 auto;
+    box-sizing: border-box;
+    border-radius: 30px;
+    width: 112px;
+    height: 51px;
+    background: rgb(42, 42, 42);
+    border: none;
+}
+
+.habarOta {
+    border-radius: 32px;
+    width: 544px;
+    height: 138px;
+    display: flex;
+    background: rgba(217, 217, 217, 0.5);
+    opacity: 0.2;
+    margin: 0 auto;
+    position: relative;
+}
+
+.rasim2 {
+    background-color: transparent;
+}
+
+.rasim1 {
+    background-color: transparent;
+}
+
+.minusBos {
+    position: absolute;
+    top: 57px;
+    left: 50px;
+    background-color: transparent;
+}
+
+.plusBos {
+    position: absolute;
+    top: 40px;
+    left: 451px;
+    background-color: transparent;
+}
+
+.habar {
+    position: absolute;
+    left: 225px;
+    top: -20px;
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 87px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.tixt {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.ranglar {
+    box-sizing: border-box;
+    border: 3px solid rgba(42, 42, 42, 0.61);
+    background: rgb(217, 217, 217);
+}
